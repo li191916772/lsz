@@ -9,3 +9,4 @@ def fn():
     print("大家好我是xl,爱你")
 
 print("asdfaaf")
+ke = "long"
